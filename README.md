@@ -35,4 +35,29 @@ It checks required documents, detects compliance issues, and provides structured
 ---
 
 ## 📂 Project Structure
+corporate_agent_adgm/
+│── app.py # Streamlit frontend
+│── checklist_verifier.py # Checklist & compliance logic
+│── comment_inserter.py # Annotates .docx with comments
+│── rag_pipeline.py # RAG-based compliance checker
+│── requirements.txt # Dependencies
+│── README.md # Project documentation
+│── assets/ # Screenshots & static files
 
+---
+
+## 🛠️ Installation
+
+# Clone repository
+git clone https://github.com/yourusername/adgm-corporate-agent.git
+cd adgm-corporate-agent
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run
+streamlit run app.py
