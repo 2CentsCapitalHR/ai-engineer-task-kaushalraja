@@ -45,19 +45,3 @@ corporate_agent_adgm/
 │── assets/ # Screenshots & static files
 
 ---
-
-## 🛠️ Installation
-
-# Clone repository
-git clone https://github.com/yourusername/adgm-corporate-agent.git
-cd adgm-corporate-agent
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run
-streamlit run app.py
