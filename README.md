@@ -26,11 +26,11 @@ It checks required documents, detects compliance issues, and provides structured
 
 ## 📸 Screenshots
 
-### 1️⃣ Upload Screen
-![Upload Screen](./assets/upload_screen.png)
+## Upload Screen
+![Upload Screen](assets/upload_screen.png)
 
-### 2️⃣ Checklist Summary Screen
-![Checklist Summary](./assets/checklist_summary.png)
+## Checklist Summary
+![Checklist Summary](assets/checklist_summary.png)
 
 ---
 
